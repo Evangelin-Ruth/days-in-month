@@ -1,12 +1,13 @@
 # EXP -3 Java program to find the number of day in a month
 # AIM:
-To find the number of days in a month in java.
+To write a java program to find the number of days in a month
+
 # PROCEDURE:
-## Step 1:
-## Step 2:
-## Step 3:
-## Step 4:
-## Step 5:
+1. Import required packages.
+2. Declare main method with the signature "public static void main(String[] args)".
+3. Get the month input from user.
+4. Use switch method to find the number of days for the given month input.
+5. Display the output.
 
 # PROGRAM:
 ```
@@ -66,4 +67,8 @@ public class days {
 ```
 # OUTPUT:
 ![image](https://github.com/Evangelin-Ruth/days-in-month/assets/94219798/0d7077d3-f4dc-4d44-b276-e1dc16cf6bd9)
+
+# RESULT:
+To write a java program to find the number of days in a month was successfully done.
+
 
